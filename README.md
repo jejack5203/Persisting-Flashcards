@@ -3,7 +3,7 @@ Lab 3
 
 
 ### App Description
-`TODO://` This is a continuation of the updated Flashcard Lab. The user is able to browse through mutliple flashcards they created. The users flashcards they made will be saved even after they close the app.
+This is a continuation of the updated Flashcard Lab. The user is able to browse through mutliple flashcards they created. The users flashcards they made will be saved even after they close the app.
 
 <img src="http://g.recordit.co/vz4CtizaSz.gif" width=200><br>
 
